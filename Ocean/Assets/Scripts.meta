@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6a5d0b3549ff2a94fa49ce70947af562
+=======
+guid: f9b156d2ed3f9184d84c49f66599f9bb
+>>>>>>> SimpleFSMBranch
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
